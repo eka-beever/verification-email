@@ -34,3 +34,11 @@ body {
   font-size:13px;
   font-family:'Roboto',sans-serif;
 }
+
+a.btn-resend{
+  background:#299AB0;
+  color:#ffffff;
+  border-radius:5px;
+  font-family:'Roboto',sans-serif;
+  padding:10px 30px;
+}
